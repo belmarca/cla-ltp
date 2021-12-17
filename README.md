@@ -19,17 +19,14 @@ régissant l'ordre du jour et le contenu des présentations:
 
     1.  Le CLA se réunit une fois par semaine pour une durée de 30 minutes à 1 heure.
     2.  Le CLA se réunit en personne si possible.
-    3.  Chaque participant doit présenter au moins une fois par trimestre (15
-    semaines).
+    3.  Chaque participant doit présenter au moins une fois par trimestre (15 semaines).
     4.  Une seule présentation est donnée par rencontre.
     5.  Une présentation est donnée par une seule personne.
     6.  Une présentation dure entre 5 et 10 minutes.
     7.  Une présentation concerne un seul article scientifique.
     8.  L'article présenté doit concerner les axes de recherche du LTP.
-    9.  L'article présenté doit être transmis aux participants au moins une
-    semaine avant la présentation.
-    10. Les participants doivent prendre connaissance de l'article avant la
-    présentation.
+    9.  L'article présenté doit être transmis aux participants au moins une semaine avant la présentation.
+    10. Les participants doivent prendre connaissance de l'article avant la présentation.
     11. Une période de discussion suit chaque présentation.
 
 Ces règles devraient permettre à tous de préparer une présentation de courte
