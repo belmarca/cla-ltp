@@ -25,7 +25,8 @@ régissant l'ordre du jour et le contenu des présentations:
     6.  Une présentation dure entre 5 et 10 minutes.
     7.  Une présentation concerne un seul article scientifique.
     8.  L'article présenté doit concerner les axes de recherche du LTP.
-    9.  L'article présenté doit être transmis aux participants au moins une semaine avant la présentation.
+    9.  L'article présenté doit être transmis aux participants au moins
+        une semaine avant la présentation.
     10. Les participants doivent prendre connaissance de l'article avant la présentation.
     11. Une période de discussion suit chaque présentation.
 
@@ -34,9 +35,8 @@ durée et permettre aux participants de lire l'article en question. Il semble
 essentiel, pour le moment, d'imposer une haute pertinence aux intérêts de
 recherche du LTP quant aux articles choisis.
 
-Les règles actuelles ont visent à assurer la pérennité du CLA. Il sera possible
-de modifier les règles en cours de route pour s'assurer d'atteindre nos
-objectifs.
+Les règles actuelles visent à assurer la pérennité du CLA. Il sera possible de
+modifier les règles en cours de route pour s'assurer d'atteindre nos objectifs.
 
 Notez que nous n'imposons pas de règles strictes quant à l'ordre et la sélection
 des présentateurs ainsi qu'à l'horaire. Ceci peut être géré par le groupe de
