@@ -1,5 +1,5 @@
 # [Horaire](horaire.md)
----
+# [Inscription](https://github.com/belmarca/cla-ltp/issues/new?&template=inscription.yaml&title=%5BInscription%5D%3A+)
 
 # Club de lecture d'articles du LTP
 
