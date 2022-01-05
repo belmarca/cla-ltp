@@ -1,5 +1,7 @@
 # Club de lecture d'articles du LTP
 
+[Horaire](horaire.md)
+
 Le club de lecture d'articles du LTP (CLA) est une occasion de discuter
 d'articles scientifiques avec vos collègues dans un environnement informel.
 
