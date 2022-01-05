@@ -1,0 +1,43 @@
+name: Inscription
+description: Veuillez compléter le formulaire pour vous inscrire à l'horaire des présentations.
+title: "[Inscription]: "
+body:
+  - type: input
+    id: qui
+    attributes:
+      label: Qui
+      description: Qui présente?
+      placeholder: Prénom et nom de famille
+    validations:
+      required: true
+  - type: input
+    id: quand
+    attributes:
+      label: Quand
+      description: Quand désirez-vous présenter?
+      placeholder: JJ-MM-AAAA
+    validations:
+      required: true
+  - type: input
+    id: titre
+    attributes:
+      label: Titre
+      description: Titre de l'article
+      placeholder: "A program data flow analysis procedure"
+    validations:
+      required: true
+  - type: input
+    id: citation
+    attributes:
+      label: Citation
+      description: Citation de l'article en format IEEE
+      placeholder: 'F. E. Allen and J. Cocke, "A program data flow analysis procedure", Commun. ACM, vol. 19, no. 3, p. 137, Mar. 1976, doi: 10.1145/360018.360025'
+    validations:
+      required: true
+  - type: input
+    id: pdf
+    attributes:
+      label: PDF
+      description: Lien vers un PDF de l'article
+    validations:
+      required: true
