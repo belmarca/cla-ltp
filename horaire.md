@@ -1,5 +1,7 @@
 # Horaire du CLA
 
+Les rencontres ont lieu sur le Jitsi du LTP: https://jitsi.iro.umontreal.ca/LTP.
+
 | Qui                 | Quand           | Quoi                                                  |
 |---------------------|-----------------|-------------------------------------------------------|
 | Marc-André Bélanger | 13 janvier 2022 | A program data flow analysis procedure [[1]](#1)      |
