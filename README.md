@@ -32,6 +32,7 @@ régissant l'ordre du jour et le contenu des présentations:
         une semaine avant la présentation.
     10. Les participants doivent prendre connaissance de l'article avant la présentation.
     11. Une période de discussion suit chaque présentation.
+    12. Il est fortement suggéré de préparer une question à poser.
 
 Ces règles devraient permettre à tous de préparer une présentation de courte
 durée et permettre aux participants de lire l'article en question. Il semble
